@@ -18,7 +18,7 @@
 <div> 
   <a href="https://br.linkedin.com/in/eduarda-ramalho-9855b0218?trk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/eduardaramalho/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardaramalho/eduardaramalho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
