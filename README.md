@@ -1,4 +1,4 @@
-### Olá! Eu sou a Eduarda Ramalho, estudante de programação e tecnologia!
+### Olá! Eu sou a Eduarda, estudante de programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/eduardaramalho">
