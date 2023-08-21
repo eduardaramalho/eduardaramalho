@@ -1,5 +1,11 @@
 ### 
 
+Olá, seja bem vindo! 
+👩🏽‍💻 Eduarda Ramalho, 18 anos.
+🔭 Aprendiz no Grupo Malwee e WEG.
+📚 Estudando ReactJS e Flutter.
+🎓 Cursando Engenharia de Software (2º Semestre) no Centro Universitário Católica de Santa Catarina.
+
 <div style=" align:"center">
   <a href="https://github.com/eduardaramalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaramalho&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
