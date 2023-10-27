@@ -2,7 +2,7 @@
 
 Olá, seja bem vindo! 
   - 👩🏽‍💻 Eduarda Ramalho, 18 anos.
-  - 🔭 Aprendiz no Grupo Malwee e WEG.
+  - 🔭 Desenvolvedora Flutter no Grupo Malwee.
   - 📚 Estudando ReactJS e Flutter.
   - 🎓 Cursando Engenharia de Software (2º Semestre) no Centro Universitário Católica de Santa Catarina.
 
